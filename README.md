@@ -31,10 +31,6 @@ export default () => {
 ```
 
 ## API
-| Param | Desc |
-|-------|------|
-| `src` | image URL |
-
 | Returns    | Desc |
 |------------|------|
 | `image`    | the image DOM element or `undefined` before image is loaded |
@@ -45,3 +41,6 @@ export default () => {
 `progress` calculation depends on the `content-length` value in the HTTP header.\
 Some image servers will not set `content-length` in the HTTP header when responding.\
 At this time, the progress will be set to `1` when the download status is `"loaded"`.
+
+> **Note**\
+This hook is fully compatible with [use-image](https://www.npmjs.com/package/use-image) in `konvajs`.

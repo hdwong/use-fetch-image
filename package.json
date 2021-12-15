@@ -1,6 +1,6 @@
 {
   "name": "use-fetch-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook to fetch an image",
   "main": "src/index.js",
   "scripts": {
