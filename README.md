@@ -1,5 +1,5 @@
 # use-fetch-image
-React hook for fetch an image with download percentage.
+React hook for fetch an image with the download percentage.
 
 [Demo](https://codepen.io/hdwong/pen/jOGyoZx)
 
