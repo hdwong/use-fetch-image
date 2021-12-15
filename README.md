@@ -1,5 +1,5 @@
 # use-fetch-image
-React hook to fetch an image
+React hook for fetch an image with download percentage.
 
 [Demo](https://codepen.io/hdwong/pen/jOGyoZx)
 
@@ -44,3 +44,6 @@ At this time, the progress will be set to `1` when the download status is `"load
 
 > **Note**\
 This hook is fully compatible with [use-image](https://www.npmjs.com/package/use-image) in `konvajs`.
+
+## License
+MIT
