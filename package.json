@@ -1,0 +1,27 @@
+{
+  "name": "use-fetch-image",
+  "version": "1.0.0",
+  "description": "React hook to fetch an image",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdwong/use-fetch-image.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "image"
+  ],
+  "author": "Bun Wong <hdwong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdwong/use-fetch-image/issues"
+  },
+  "homepage": "https://github.com/hdwong/use-fetch-image#readme",
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
+}
